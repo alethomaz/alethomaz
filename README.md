@@ -5,6 +5,7 @@
 - 📫 Como me encontrar: ale.benedetp@gmail.com
 
 <head>
+  <h1> Habilidades primárias:
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a> 
 </head>
   
