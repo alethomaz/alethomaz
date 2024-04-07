@@ -4,7 +4,9 @@
 - 🌱 Estou estudando Data Science.
 - 📫 Como me encontrar: ale.benedetp@gmail.com
 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">  
+</head>
+  
 
 Tamo junto familia, bora 
