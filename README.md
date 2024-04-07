@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou o Alessandro.
+- 👋 Olá, eu sou o Ale.
 - 📚 Sou estudante de Sistemas de Informação na UFSC.
 - 👀 Eu estou interessado em Data Science e Machine Learning.
 - 🌱 Estou estudando Data Science
