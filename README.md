@@ -3,7 +3,7 @@
 - 👀 Eu estou interessado em Data Science e Machine Learning.
 - 🌱 Estou estudando Data Science
 
-- 📫 How to reach me ale.benedetp@gmail.com
+- 📫 Como me encontrar: ale.benedetp@gmail.com
 
 
 Tamo junto familia, bora 
