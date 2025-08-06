@@ -1,9 +1,12 @@
-# 👋 Olá, eu sou o Ale.
-- 📚 Sou estudante de Sistemas de Informação na UFSC.
-- 👀 Eu estou interessado em Data Science e Machine Learning.
-- 🌱 Estou estudando Data Science.
-- 📫 Como me encontrar: ale.benedetp@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-thomaz-benedet-18902424b/)
+## 👋 Olá, eu sou o Alê Thomaz!
+
+🎓 Estudante de **Sistemas de Informação** na **UFSC**  
+📊 Apaixonado por **Data Science**, **Machine Learning** e resolver problemas com dados  
+🚀 Atualmente estudando e desenvolvendo projetos na área de ciência de dados  
+📬 Fale comigo: [ale.benedetp@gmail.com](mailto:ale.benedetp@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-thomaz-benedet-18902424b/)
+
 
 ## Habilidades primárias:
 <p>
@@ -14,8 +17,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/raw/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40" style="max-width: 100%;">
-  <img src="https://imagensemoldes.com.br/wp-content/uploads/2020/09/%C3%8Dcone-Logo-Excel-PNG.png" alt="excel" width="40" height="40" style="max-width: 100%;">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" style="max-width: 100%;">
+  
   <img src="https://github.com/devicons/devicon/raw/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/raw/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40" style="max-width: 100%;">
 </p>
@@ -27,6 +29,11 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" style="max-width: 100%;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" alt="qgis" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="qgis" width="40" height="40" style="max-width: 100%;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="qgis" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="qgis" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wolfram/wolfram-original-wordmark.svg" alt="fastapi" width="40" height="40" style="max-width: 100%;">
 </p>
 
 ## GitHub Estatísticas:
